@@ -22,7 +22,7 @@ Yes. It is
 
 Please do not sell the program/code for money. It is free to use for everyone.
 
-The program support videos up to 1080p and 30FPS (.mp4), you also can only audio file (.webm).
+The program support videos up to 1080p and 30FPS (.mp4), you also can download only audio file (.webm).
 
 
 Frizles.
