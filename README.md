@@ -13,4 +13,7 @@ How to run?
 
 5.Follow the instructions in the console to download a YouTube video
 
+The program support videos up to 1080p and 30FPS (.mp4), you also can only audio file (.webm).
+
+
 Frizles.
