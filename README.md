@@ -3,7 +3,7 @@ Video downloader with Python and Pytube
 
 How to run?
 
-!!!First of all make sure that the newest version of Python is installed to your computer, if not go to https://www.python.org/downloads/ and download it
+!!!First of all make sure that the newest version of Python is installed to your computer, if not go to https://www.python.org/downloads/ and download and install it
 
 1.Open a cmd, PowerShell or a Terminal
 
@@ -14,6 +14,9 @@ How to run?
 4.Then use the 'python YTVideoDownloader.py' command
 
 5.Follow the instructions in the console to download a YouTube video
+
+It is Legal?
+Yes. It is
 
 The program support videos up to 1080p and 30FPS (.mp4), you also can only audio file (.webm).
 
