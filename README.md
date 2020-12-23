@@ -3,6 +3,8 @@ Video downloader with Python and Pytube
 
 How to run?
 
+!!!First of all make sure that the newest version of Python is installed to your computer, if not go to https://www.python.org/downloads/ and download it
+
 1.Open a cmd, PowerShell or a Terminal
 
 2.Run the following command 'pip install pytube' (you only need to run once per computer)
